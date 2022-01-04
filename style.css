@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+}
+#click{
+    width: 100px;
+    height: 30px;
+}
